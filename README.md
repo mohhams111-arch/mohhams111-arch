@@ -1,38 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mohaned Alhamss</h1>
-<h3 align="center">Computer Engineering Student | AI Enthusiast</h3>
+# Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohhams111-arch/mohhams111-arch/main/profile.jpg" width="150" style="border-radius:50%;" />
-</p>
+I am Mohaned Alhamss, a Computer Engineering student who is interested in software development, web technologies, and artificial intelligence.  
+I enjoy learning new technologies and building useful projects. I am passionate about programming and continuously improving my skills.
 
 ---
 
-## 💫 About Me
-- 🎓 I am a Computer Engineering student  
-- 💻 I love programming and building projects  
-- 🤖 Interested in Artificial Intelligence and Machine Learning  
-- 🚀 Always learning new technologies  
+## 🛠️ Expertise
+
+- Programming Languages: Java, C++, Python  
+- Web Development: HTML, CSS, JavaScript  
+- Problem Solving & Data Structures  
+- Artificial Intelligence (AI)  
 
 ---
 
-## 🛠️ Languages and Tools
-- Java ☕  
-- C++ ⚙️  
-- Python 🐍  
-- HTML, CSS, JavaScript 🌐  
+## 🌱 I’m currently learning
+
+- Advanced Artificial Intelligence  
+- Data Structures & Algorithms  
 
 ---
 
-## 🎯 Current Focus
-- 📌 Improving problem-solving skills  
-- 📌 Learning advanced AI concepts  
-- 📌 Building real-world projects  
+## 👯 I’m looking to collaborate on
+
+- Web Development Projects  
+- AI & Machine Learning Projects  
 
 ---
 
-## 📫 Connect with Me
-- GitHub: https://github.com/mohhams111-arch  
+## 📍 Location
+
+- Istanbul  
+- Istanbul Arel University  
 
 ---
 
-⭐️ From Mohaned Alhamss
+## 📫 How to reach me:
+
+- 📧 Email: mohhams111@gmail.com  
+- 📷 Instagram: https://www.instagram.com/mohaned_kh_22  
+
+---
