@@ -1,6 +1,8 @@
 # Hi, I'm Mohaned Alhamss 👋
+### Computer Engineering Student
 
 ## 💻 About Me
+- Currently learning advanced AI concepts and improving problem-solving skills
 I am a Computer Engineering student passionate about building software and solving problems.  
 I am continuously learning and improving my skills in programming, web development, and artificial intelligence.
 
