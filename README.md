@@ -1,7 +1,9 @@
-# Hi there 👋
+<h1>Hi there 👋</h1>
 
+<p>
 I am Mohaned Alhamss, a Computer Engineering student who is interested in software development, web technologies, and artificial intelligence.  
 I enjoy learning new technologies and building useful projects. I am passionate about programming and continuously improving my skills.
+</p>
 
 ---
 
@@ -28,16 +30,8 @@ I enjoy learning new technologies and building useful projects. I am passionate 
 
 ---
 
-## 📍 Location
-
-- Istanbul  
-- Istanbul Arel University  
-
----
-
 ## 📫 How to reach me:
 
-- 📧 Email: mohhams111@gmail.com  
-- 📷 Instagram: https://www.instagram.com/mohaned_kh_22  
+- GitHub: https://github.com/mohhams111-arch  
 
 ---
