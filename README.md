@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohaned Alhamss 👋
 
-<!--
-**mohhams111-arch/mohhams111-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I am a Computer Engineering student passionate about building software and solving problems.  
+I am continuously learning and improving my skills in programming, web development, and artificial intelligence.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- Programming Languages: Java, C++, Python
+- Web Development: HTML, CSS, JavaScript
+- Problem Solving & Data Structures
+- Artificial Intelligence (AI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- Software Development
+- Web Programming
+- AI & Machine Learning
+
+## 🌐 Connect with Me
+- GitHub: https://github.com/mohhams111-arch
